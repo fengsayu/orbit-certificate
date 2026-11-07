@@ -1,6 +1,6 @@
 # Orbit Data and Integer Certificate for X_5
 
-This file "orbit_certificate" contains five standalone Python programs and their recorded outputs for Section 6.1 ("The lower bound") and Appendix A. They enumerate the relevant group orbits of the quotient graph $X_5$, generate its adjacency data and orbit neighbor-count matrix, reproduce the first four columns of Table A.4, and evaluate the integer certificate in Appendix A.3.
+The folder "orbit_certificate" contains five standalone Python programs and their recorded outputs for Section 6.1 ("The lower bound") and Appendix A. They enumerate the relevant group orbits of the quotient graph $X_5$, generate its adjacency data and orbit neighbor-count matrix, reproduce the first four columns of Table A.4, and evaluate the integer certificate in Appendix A.3.
 
 ## Requirements and usage
 
